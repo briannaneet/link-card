@@ -28,19 +28,28 @@ h2 {
 
 p {
   color: #785439;
+  font-size: 1.125rem;
 }
 
 dl {
   color: #785439;
+  font-size: 1rem;
 }
 
-dd dt {
+.link-card dd dt {
   display: inline-block;
-  width: 6rem;
+}
+
+.link-card dd {
+}
+
+.link-card dt {
 }
 
 .btn {
   font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+  color: #f0eee8;
   border-style: solid;
   border-radius: 8px;
   border-width: 2px;
