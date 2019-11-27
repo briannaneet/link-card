@@ -1,7 +1,22 @@
 html {
   box-sizing: border-box;
+  background-color: #f0eee8;
+  font: Georgia, serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+.link-card {
+  text-decoration: none;
+
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
+}
+
+.btn {
+  font-family: 'Dosis', sans-serif;
 }
