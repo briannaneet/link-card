@@ -8,9 +8,16 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #dcd4cd;
+  border-style: solid;
+  border-radius: 3px;
+  border-width: 3px;
+  border-color: #9a816d;
+}
+
 .link-card {
   text-decoration: none;
-
 }
 
 h2 {
@@ -19,4 +26,9 @@ h2 {
 
 .btn {
   font-family: 'Dosis', sans-serif;
+  border-style: solid;
+  border-radius: 8px;
+  border-width: 2px;
+  background-color: #785439;
+  border-color: #785439;
 }
