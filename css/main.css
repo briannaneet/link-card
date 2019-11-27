@@ -22,6 +22,21 @@ body {
 
 h2 {
   font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+  color: #512200;
+}
+
+p {
+  color: #785439;
+}
+
+dl {
+  color: #785439;
+}
+
+dd dt {
+  display: inline-block;
+  width: 6rem;
 }
 
 .btn {
